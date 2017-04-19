@@ -1,4 +1,7 @@
-# test coverage for  [node-bourbon (v4.2.8)](https://github.com/lacroixdesign/node-bourbon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-bourbon.svg)](https://travis-ci.org/npmtest/node-npmtest-node-bourbon)
+# npmtest-node-bourbon
+
+#### test coverage for  [node-bourbon (v4.2.8)](https://github.com/lacroixdesign/node-bourbon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-bourbon.svg)](https://travis-ci.org/npmtest/node-npmtest-node-bourbon)
+
 #### node-sass wrapper for thoughtbot's bourbon library
 
 [![NPM](https://nodei.co/npm/node-bourbon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-bourbon)
