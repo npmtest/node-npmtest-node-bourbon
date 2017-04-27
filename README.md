@@ -1,6 +1,6 @@
 # npmtest-node-bourbon
 
-#### test coverage for  [node-bourbon (v4.2.8)](https://github.com/lacroixdesign/node-bourbon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-bourbon.svg)](https://travis-ci.org/npmtest/node-npmtest-node-bourbon)
+#### basic test coverage for  [node-bourbon (v4.2.8)](https://github.com/lacroixdesign/node-bourbon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-bourbon.svg)](https://travis-ci.org/npmtest/node-npmtest-node-bourbon)
 
 #### node-sass wrapper for thoughtbot's bourbon library
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-bourbon/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-bourbon/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-bourbon/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-bourbon/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-bourbon/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-bourbon/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-bourbon/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-bourbon/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-bourbon/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-bourbon/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-bourbon/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-bourbon/build/coverage.html/index.html)
 
@@ -78,7 +78,8 @@
     "scripts": {
         "test": "mocha --reporter spec --recursive --growl"
     },
-    "version": "4.2.8"
+    "version": "4.2.8",
+    "bin": {}
 }
 ```
 
